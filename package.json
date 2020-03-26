@@ -1,0 +1,8 @@
+{
+  "name": "open-contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sunnyRK/open-contracts.git",
+  "author": "sunnyRK <radadiyasunny970@gmail.com.com>",
+  "license": "MIT"
+}
